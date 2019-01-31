@@ -1,0 +1,6 @@
+{
+  "products": [
+    { "name": "Head & Shoulders: Mint", "price": 35, "stars": 4 },
+    { "name": "Shampoo: Pizza", "price": 10, "stars": 1 }
+  ]
+}
