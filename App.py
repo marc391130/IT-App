@@ -157,7 +157,7 @@ class Application(tk.Frame):
         for line in range(len(self.basket)):
             text2save += str(self.basket[line].getName() + " .. kr: " + self.basket[line].getPrice() + " .. stars: " + self.basket[line].getStars() + "\n")
 
-        text2save += str("\n Total beløb: " + self.getAmount() + " kr")
+        text2save += str("\n" + "-- Totalbeløb: " + self.getAmount() + " kr")
         f.write(text2save)
         f.close()
 

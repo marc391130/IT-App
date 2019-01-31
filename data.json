@@ -1,6 +1,27 @@
 {
   "products": [
     { "name": "Head & Shoulders: Mint", "price": 35, "stars": 4 },
-    { "name": "Shampoo: Pizza", "price": 10, "stars": 1 }
+    { "name": "Shampoo: Apple", "price": 7, "stars": 2 },
+    { "name": "Fryse pizza 3stk", "price": 20, "stars": 3 },
+    { "name": "Coca Cola", "price": 12, "stars": 4 },
+    { "name": "Coca Cola Light", "price": 12, "stars": 3 },
+    { "name": "Coca Cola Zero", "price": 12, "stars": 3 },
+    { "name": "Fanta", "price": 12, "stars": 4 },
+    { "name": "Fanta: Exotic", "price": 12, "stars": 4 },
+    { "name": "Sprite", "price": 12, "stars": 4 },
+    { "name": "Sprite: light", "price": 12, "stars": 3 },
+    { "name": "Monster: Energidrik", "price": 10, "stars": 5 },
+    { "name": "Cult: Original Raw", "price": 10, "stars": 4 },
+    { "name": "Cult: Cola", "price": 10, "stars": 3 },
+    { "name": "Faxe: Booster", "price": 10, "stars": 2 },
+    { "name": "Sandwich /m Kylling", "price": 17, "stars": 4 },
+    { "name": "Sandwich /m Æg & Bacon", "price": 17, "stars": 4 },
+    { "name": "Wrap /m oksekød", "price": 20, "stars": 4 },
+    { "name": "Salat /m Kylling", "price": 25, "stars": 4 },
+    { "name": "Citronmåne", "price": 15, "stars": 4 },
+    { "name": "Hindbær Rulade", "price": 20, "stars": 5 },
+    { "name": "Ispind /m mandler 3stk", "price": 10, "stars": 3 },
+    { "name": "Lasagne", "price": 13, "stars": 2 }
+
   ]
 }

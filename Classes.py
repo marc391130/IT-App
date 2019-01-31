@@ -8,10 +8,10 @@ class Order:
         return self.name
 
     def getPrice(self):
-        return self.price
+        return str(self.price)
 
     def getStars(self):
-        return self.stars
+        return str(self.stars)
 
     def setName(self, name):
         self.name = name
